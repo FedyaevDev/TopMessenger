@@ -36,3 +36,4 @@ C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Infrastructure\R
 C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\UsersListViewStyle.baml
 C:\Users\feday\source\repos\top_messenger_test\obj\Debug\TopMessenger.exe
 C:\Users\feday\source\repos\top_messenger_test\obj\Debug\TopMessenger.pdb
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\GradientBtnStyle.baml
